@@ -11,16 +11,27 @@ A través del análisis de este dataset, se podrán conocer las características
 A continuación compartimos un breve video sobre la ENFR 2018: https://www.youtube.com/watch?v=jWizumtGftg
 
 Trataremos de responder algunas de las siguientes preguntas:
+
 ❖ 	¿Cuáles son las principales características de la población de Argentina en cuanto a sus determinantes sociodemográficos y de estilos de vida?
+
 ❖  ¿Cuáles son las prevalencias de las ENT más frecuentes en la población Argentina?
+
 ❖   ¿Cómo se agrupan las provincias o zonas geográficas del país según perfiles de ENT?
+
 ❖ 	¿Cuáles son los factores que se te ocurre que pueden actuar como riesgo o protección para el desarrollo de ENT?
+
 ❖  ¿Existe un factor que presente un rol de mayor importancia en el desarrollo o prevención de las ENT?
+
 ❖ 	¿Cuáles son los factores alimentarios que promueven el desarrollo de la enfermedad?¿Y cuáles son aquellos que protegen?
+
 ❖ 	¿Se encuentra la obesidad asociada a la HTA?¿Y al colesterol elevado?
+
 ❖ 	¿Qué variables ayudarían a predecir el estado nutricional de un sujeto de la población de Argentina?
+
 ❖ 	¿Cuáles son las características más visibles de los grupos según estado nutricional?¿Existen características comunes que nos permitan predecir el estado nutricional que tendrá una persona?
+
 ❖ 	¿Existe algún aspecto relacionado a la vivienda o al hogar que caracterice a los individuos según presencia o no de alguna ENT de interés?
+
 ❖   ¿Mentir sobre el peso es una cuestión de sexo?
 
 Para conocer en mayor detalle cada una de las variables les invitamxs a explorar el Diccionario de códigos para ENFR 2018.
